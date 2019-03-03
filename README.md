@@ -31,4 +31,4 @@ This Automation is designed for getting the Token and ADD ID from the APP on Fac
 **Output**
 
 1. Your TOKEN AND ADD ID is stored in Credential executable
-2. To get your data from the FB [press here](https://github.com/KangboLu/request-lib/blob/master)
+2. To get your data from the FB [press here](https://github.com/KangboLu/request-lib)
