@@ -14,7 +14,7 @@ username = ""
 password = ""
 app_name = ""
 driver_path = ""
-first = int(raw_input("If you want to change/enter(for first time) your login details press 1 otherwise press enter:"))
+first = int(raw_input("If you want to change/enter(for first time) your login details enter 1 otherwise enter any other number:"))
 if first == 1:
     username = raw_input("Enter your username:")
     password = raw_input("Enter your password:")
