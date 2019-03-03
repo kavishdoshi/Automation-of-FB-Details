@@ -8,7 +8,7 @@ solve it with you as possible as I can.
 ## Section 0: What is this library for?
 This Automation is designed for getting the Token and ADD ID from the APP on Facebook  i.e Getting the Facebook Marketing Credential
 
-[See the pdf instruction in this repository!]()  
+[See the pdf instruction in this repository!](https://github.com/Sherlockof96/Automation-of-FB-Details/blob/master/FB%20Marketing%20API%20Setup.pdf)  
 
 
 <a href="https://sites.google.com/a/chromium.org/chromedriver/downloads">Download the Chrome WebDriver here</a>
