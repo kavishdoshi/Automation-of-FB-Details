@@ -12,5 +12,10 @@ This Automation is designed for getting the Token and ADD ID from the APP on Fac
 
 **How to use it?**  
 
-1. Install the chrome driver.<br> Note: The web-driver which you download should match the version of the chrome you are using. 
+1. Install the chrome driver.<br> Note: The web-driver which you download should match the version of the chrome you are using. <br>
 <a href="https://sites.google.com/a/chromium.org/chromedriver/downloads">Download the Chrome WebDriver here</a>
+
+2. Install Python2 or Python 3
+
+3. Then install the library "Selenium" by "pip install selenium" If you face problem look into the link below
+<br> <a href="https://selenium-python.readthedocs.io/installation.html">Selenium Documentation</a>
