@@ -27,6 +27,7 @@ This Automation is designed for getting the Token and ADD ID from the APP on Fac
 **Directions in the running of the file: Automated_Markating_API_setup.py**
 
 1. Press 1 if you want to make changes if not your details will be stored in the file for next time use
+2. There is a possibility that the code doesn't run with raw_input. Change it to input 
 
 **Output**
 
