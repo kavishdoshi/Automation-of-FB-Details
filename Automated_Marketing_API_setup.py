@@ -26,7 +26,7 @@ if first == 1:
     f.write(y)
     f.write(app_name)
     f.close()
-first = int(raw_input("If you want to change/enter(for first time) your driver path press 1 otherwise press enter:"))
+first = int(raw_input("If you want to change/enter(for first time) your driver path enter 1 otherwise enter any other number:"))
 if first == 1:
     driver_path = raw_input("Copy your driverpath:")
     f = open("Driver_Path_Details", "w")
