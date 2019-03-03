@@ -1,12 +1,12 @@
 # Automation-of-FB-Details
-Automation of getting Token of an APP and ADDID using Selenium
+Automation of getting Token of an APP and AD ID using Selenium
 
 If you encounter problem, please describe problem with screenshot  
 in the "Issues" section of the repository. I will try to answer and  
 solve it with you as possible as I can.
 
 ## What is this library for?
-This Automation is designed for getting the Token and ADD ID from the APP on Facebook  i.e Getting the Facebook Marketing Credential
+This Automation is designed for getting the Token and AD ID from the APP on Facebook  i.e Getting the Facebook Marketing Credential
 
 [See the pdf instruction: It does the same thing Automatically](https://github.com/Sherlockof96/Automation-of-FB-Details/blob/master/FB%20Marketing%20API%20Setup.pdf)  
 
