@@ -27,3 +27,8 @@ This Automation is designed for getting the Token and ADD ID from the APP on Fac
 **Directions in the running of the file: Automated_Markating_API_setup.py**
 
 1. Press 1 if you want to make changes if not your details will be stored in the file for next time use
+
+**Output**
+
+1. Your TOKEN AND ADD ID is stored in Credential executable
+2. To get your data from the FB [press here](https://github.com/KangboLu/request-lib/blob/master)
