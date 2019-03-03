@@ -19,3 +19,11 @@ This Automation is designed for getting the Token and ADD ID from the APP on Fac
 
 3. Then install the library "Selenium" by "pip install selenium" If you face problem look into the link below
 <br> <a href="https://selenium-python.readthedocs.io/installation.html">Selenium Documentation</a>
+
+4. [Manually follow the instruction till "Scroll Down and Confirm Implementation"](https://github.com/Sherlockof96/Automation-of-FB-Details/blob/master/FB%20Marketing%20API%20Setup.pdf)  
+
+5. Run Automated_Markating_API_setup.py
+
+**Directions in the running of the file: Automated_Markating_API_setup.py**
+
+1. Press 1 if you want to make changes if not your details will be stored in the file for next time use
