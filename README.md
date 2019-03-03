@@ -31,5 +31,5 @@ This Automation is designed for getting the Token and AD ID from the APP on Face
 
 **Output**
 
-1. Your TOKEN AND ADD ID is stored in Credential executable
+1. Your TOKEN and AD ID is stored in Credential executable
 2. To get your data from the FB [press here](https://github.com/KangboLu/request-lib)
