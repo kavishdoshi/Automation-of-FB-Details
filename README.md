@@ -12,5 +12,5 @@ This Automation is designed for getting the Token and ADD ID from the APP on Fac
 
 **How to use it?**  
 
-1. Install the chrome driver in the link given below. Note: The web-driver which you download should match the version of the chrome you are using. Download link given below
+1. Install the chrome driver in the link given below. Note: The web-driver which you download should match the version of the chrome you are using. 
 <a href="https://sites.google.com/a/chromium.org/chromedriver/downloads">Download the Chrome WebDriver here</a>
